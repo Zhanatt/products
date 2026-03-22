@@ -31,7 +31,7 @@ npm run deploy
 3. В настройках репозитория GitHub → Settings → Pages → выбери ветку `gh-pages`
 
 4. Сайт будет доступен по адресу:
-**https://matkasym.github.io/products/**
+   https://matkasym.github.io/products/
 
 ## Обновление данных
 
